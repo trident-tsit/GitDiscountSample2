@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3927e63-7f56-4ac0-952c-43ee4e403a0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f3927e63-7f56-4ac0-952c-43ee4e403a0f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +100,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,13 +238,28 @@
       <option name="project" value="LOCAL" />
       <updated>1562728734173</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="１回目のコミット">
+      <created>1562795202527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562795202527</updated>
+    </task>
+    <task id="LOCAL-00009" summary="２回目のコミット">
+      <created>1562795377853</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562795377853</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17542441" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17784964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,12 +288,13 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="１回目のコミット" />
     <MESSAGE value="値引き処理を追加" />
     <MESSAGE value="２人の開発者が共有開始" />
     <MESSAGE value="１回目のコミット（２人の開発者が共有開始）" />
     <MESSAGE value="テストバージョン" />
-    <option name="LAST_COMMIT_MESSAGE" value="テストバージョン" />
+    <MESSAGE value="１回目のコミット" />
+    <MESSAGE value="２回目のコミット" />
+    <option name="LAST_COMMIT_MESSAGE" value="２回目のコミット" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GitDiscountSample.iml">
